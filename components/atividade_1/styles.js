@@ -9,6 +9,11 @@ const Styles = StyleSheet.create({
         color: '#fff',
         fontSize: 20,
     },
+    texto2: {
+        color: 'blue marin',
+        fontSize: 20,
+    },
+
 });
 
 export default Styles;

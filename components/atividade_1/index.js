@@ -5,8 +5,8 @@ import styles from './styles';
 function Atividade1 () {
     return(
         <View style={styles.container}>
-            <Text>Atividade1</Text>
-            <Text>Beicin</Text>
+            <Text style={styles.texto}>Atividade1</Text>
+            <Text style={styles.texto2}>Beicin</Text>
             </View>
     );
 }
